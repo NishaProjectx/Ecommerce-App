@@ -1,0 +1,46 @@
+.product-detail-wrapper{
+    padding-top: 3rem;
+}
+
+.product-img{
+    flex-basis: 30%;   
+}
+
+.product-img img{
+    width: 100%;
+}
+
+.product-detail-box{
+    flex-basis: 60%;
+}
+
+.product-name{
+    font-size: 3rem;
+}
+
+.product-price{
+    margin-top: 1.5rem;
+    font-size: 1.5rem;
+}
+
+.product-description{
+    margin-top: 1.5rem;
+    
+}
+
+.product-descreption-title{
+    margin-bottom: 1rem;
+    color: var(--mid-gray);
+}
+
+.product-descreption-data{
+    font-size: 1rem;
+    text-align: justify;
+    line-height: 1.75;
+
+}
+
+.product-detail-action{
+    margin-top: 1.5rem;
+    width: 250px;
+}
